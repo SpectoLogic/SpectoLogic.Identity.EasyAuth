@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	<Copyright>(c) SpectoLogic e.U.</Copyright>
+	<PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+	<Authors>Nina Pollak</Authors>
+	<Company>SpectoLogic e.U. Inh. Nina Pollak</Company>
+	<Description>Library to ease the process of using Azure Web App Authentication with ASP.NET Core and Claims Principal</Description>
+	<Copyright>(c) by SpectoLogic e.U.</Copyright>
+	<NeutralLanguage />
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<Version>1.0.1-alpha</Version>
+	<PackageReleaseNotes></PackageReleaseNotes>
+	<RepositoryUrl>https://github.com/SpectoLogic/API-connector-utilties-for-AADB2C</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>

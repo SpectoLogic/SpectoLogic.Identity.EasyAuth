@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpectoLogic.Identity.EasyAuth", "SpectoLogic.Identity.EasyAuth\SpectoLogic.Identity.EasyAuth.csproj", "{0CCB2ABB-C120-41A0-8DD4-98DAED459B9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEasyAuthB2CApp", "DemoEasyAuthB2CApp\DemoEasyAuthB2CApp.csproj", "{E5EF0DC2-9E67-4112-AC46-82AE5774042C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CCB2ABB-C120-41A0-8DD4-98DAED459B9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCB2ABB-C120-41A0-8DD4-98DAED459B9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCB2ABB-C120-41A0-8DD4-98DAED459B9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCB2ABB-C120-41A0-8DD4-98DAED459B9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5EF0DC2-9E67-4112-AC46-82AE5774042C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EF0DC2-9E67-4112-AC46-82AE5774042C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EF0DC2-9E67-4112-AC46-82AE5774042C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EF0DC2-9E67-4112-AC46-82AE5774042C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D3BAA9-6CE5-4790-BEA8-E4C1AEBF5CB0}
+	EndGlobalSection
+EndGlobal
