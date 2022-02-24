@@ -71,5 +71,5 @@ app.UseAuthorization();
 
 ## Nuget Packages
 
-- [SpectoLogic.Identity.EasyAuth](https://www.nuget.org/packages/SpectoLogic.Identity.EasyAuth/)
+- [SpectoLogic.Identity.EasyAuth](https://www.nuget.org/packages/SpectoLogic.Identity.EasyAuth)
 
